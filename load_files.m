@@ -51,6 +51,7 @@ function [EEG, header] = load_files(edfFilePath)
     try
         save(matFilePath, 'EEG', 'header');
         disp(['Data saved as MAT file: ' matFilePath]);
+
     catch
         disp('Error saving data to MAT file.');
     end
