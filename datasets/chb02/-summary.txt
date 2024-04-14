@@ -1,0 +1,88 @@
+Data Sampling Rate: 500 Hz
+*************************
+
+Channels in EDF Files:
+**********************
+Channel 1: F7
+Channel 2: F8
+Channel 3: F3
+Channel 4: F4
+Channel 5: P7
+Channel 6: P8
+Channel 7: O1
+Channel 8: O2
+
+
+File Name: chb02_01.edf
+num_of_seiz_files File: 0
+
+File Name: chb02_02.edf
+num_of_seiz_files File: 0
+
+File Name: chb02_03.edf
+num_of_seiz_files File: 1
+Seizure Start Time: 225 seconds
+Seizure End Time: 235 seconds
+
+File Name: chb02_04.edf
+num_of_seiz_files File: 0
+
+File Name: chb02_05.edf
+num_of_seiz_files File: 1
+Seizure Start Time: 132 seconds
+Seizure End Time: 158 seconds
+
+File Name: chb02_06.edf
+num_of_seiz_files File: 0
+
+File Name: chb02_07.edf
+num_of_seiz_files File: 1
+Seizure Start Time: 225 seconds
+Seizure End Time: 238 seconds
+
+File Name: chb02_08.edf
+num_of_seiz_files File: 0
+
+File Name: chb02_09.edf
+num_of_seiz_files File: 0
+
+File Name: chb02_10.edf
+num_of_seiz_files File: 1
+Seizure Start Time: 200 seconds
+Seizure End Time: 250 seconds
+
+File Name: chb02_11.edf
+num_of_seiz_files File: 0
+
+File Name: chb02_12.edf
+num_of_seiz_files File: 0
+
+File Name: chb02_13.edf
+num_of_seiz_files File: 0
+
+File Name: chb02_14.edf
+num_of_seiz_files File: 0
+
+File Name: chb02_15.edf
+num_of_seiz_files File: 0
+
+File Name: chb02_16.edf
+num_of_seiz_files File: 0
+
+File Name: chb02_17.edf
+num_of_seiz_files File: 1
+Seizure Start Time: 215 seconds
+Seizure End Time: 237 seconds
+
+File Name: chb02_18.edf
+num_of_seiz_files File: 0
+
+File Name: chb02_19.edf
+num_of_seiz_files File: 1
+Seizure Start Time: 120 seconds
+Seizure End Time: 160 seconds
+
+File Name: chb02_20.edf
+num_of_seiz_files File: 1
+Seizure Start Time: 224 seconds
+Seizure End Time: 243 seconds
